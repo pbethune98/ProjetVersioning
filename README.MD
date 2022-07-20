@@ -3,6 +3,6 @@
 20 Juillet 2022 - 3SI 1
 
 
-BETHUNE Pierre
-LAUCOURNET Bastien
-TRIBOULOT Guillaume
+BETHUNE Pierre - pbethune98
+LAUCOURNET Bastien - Netoxa
+TRIBOULOT Guillaume - Azguendare
