@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+logRegex = /[ref: ]/
+
+commitFile = ARGV[0]
+
+logFound = false
+
+	if logRegex.match(commitFile)
+		logFound = true
+		puts "[POLICY] no ticket reference found in commitname : #{commitname}"
+	end 
+end
+
+if logFound
+	puts "[POLICY] Commit refused, please put a ticket reference in commit name"
+	exit 1
+end
