@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: blue;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+h1{
+    color: brown;
+}
+
+main{
+    margin-top: 2%;
+}
+
+.square{
+    background-color: crimson;
+    padding: 1%;
+    width: 2%;
+    margin: 2%;
+    display: inline;
+    justify-content: space-between;
+}
